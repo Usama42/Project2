@@ -1,0 +1,237 @@
+*{
+    text-decoration: none;
+padding: 0;
+margin: 0;
+list-style: none;
+list-style-type: none
+
+}
+
+
+.head-wrapper {
+    background-color: antiquewhite;
+    height: 200px;
+    width: 100%;
+}
+.logo-wrapper{
+    height: 55%;
+    width: 100%;
+    background-color: white
+}
+.img-wrapper{width: 35%;
+    height: 100%;
+    /* margin-bottom: 25px; */
+
+
+}
+a {
+    color:white;
+    
+}
+
+
+img {
+    height: 152px;
+    width: 311px;
+    margin-top: -41px;
+    padding-top: -136px;
+}
+.icon-wrapper{
+  
+    height: 25%;
+    width: 45%;
+    background-color: white;
+    padding-left: 1043px;
+    margin-top: -30px;
+
+}
+a.icon-1 {
+    padding-right: 20px;
+}
+.nav-wrapper {
+    height: 45%;
+    background-color: black;
+}
+.nav {
+    padding-top: 53px;
+    text-decoration: none;
+    padding-left: 41px;
+}
+.nav ul {
+    display: flex;
+    float: left;
+    text-decoration: none;
+}
+.nav ul li {
+    padding-inline-end: 56px;
+}
+.nav a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  input[type="text"] {
+    background-color: black;
+    border-color: grey;
+}
+button {
+    background-color: grey;
+    border-color: grey;
+}
+
+.cover-photo img {
+    width: 100%;
+    height: 507px;
+    padding-top: 35px;
+}
+
+.categories-wrapper h2 {
+    padding-bottom: 55px;
+    padding-left: 111px;
+}
+.categories-wrapper {
+    padding-top: 41px;
+    HEIGHT: 298px;
+    width: 100%;
+    background-color: aliceblue;
+}
+.product-wrapper{
+    
+        padding-top: 41px;
+        HEIGHT: 298px;
+        width: 100%;
+        background-color: aliceblue;
+    
+}
+.arrow img{
+    padding-left: 49px;
+    height: 23px;
+    width: 42px;
+    margin-bottom: -29px;
+    background-color: aliceblue;
+}
+.product-wrapper .arrow img{
+    padding-left: 49px;
+    height: 23px;
+    width: 42px;
+    margin-bottom: -29px;
+    background-color: aliceblue;
+}
+.pics {
+    width: 100%;
+    height: 225px;
+    display: flex
+    /* padding-bottom: 30px; */
+}
+.pics1 {
+    width: 100%;
+    height: 225px;
+    display: flex
+    /* padding-bottom: 30px; */
+}
+.pic1 {
+    width: 30%;
+    height: 220px;
+    position: relative;
+  text-align: center;
+  color: white;
+  opacity: 1;
+}
+
+.pics .pic1 img {
+    height: 207px;
+    width: 311px;
+    margin-top: -41px;
+    padding-top: -136px;
+}
+.pics1 .pic1 img {
+    height: 207px;
+    width: 311px;
+    margin-top: -41px;
+    padding-top: -136px;
+    
+}
+
+
+.pics .pic1:hover img {
+    transform: scaleX(1.5,1.5);
+    transform: scale(1.5,1.5);
+    overflow: hidden;
+}
+.pics1 .pic1:hover img {
+    transform: scaleX(1.5,1.5);
+    transform: scale(1.5,1.5);
+    overflow: hidden;
+    opacity: 0;
+} 
+  
+.over{
+    background-color: darkgray;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.over1{
+
+    background-color: darkgray;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+span.over1 {
+    margin-top: -29px;
+    padding-bottom: 51px;
+    background: lightgrey;
+    height: -22px;
+    background-color: transparent;
+    font-weight: bold;
+}
+.product-wrapper h2.over1 {
+    padding-bottom: -24px;
+    padding-left: 4px;
+    height: 0px;
+    width: 150px;
+    background-color: transparent;
+    padding-top: 85px;
+}
+.product-wrapper h2.over1 {
+    padding-bottom: -24px;
+    margin-left: 0px;
+    width: 150px;
+    background-color: transparent;
+    padding-top: 85px;
+}
+
+h2#pr {
+    margin-bottom: 62px;
+    margin-left: 96px;
+    padding-bottom: -7px;
+}
+.pics1 .pic1 img {
+    height: 257px;
+    width: 311px;
+    margin-top: -41px;
+    padding-top: -136px;
+}
+.contact-us{
+   
+    margin-top: 52px;
+    height: 394px;
+    width: 100%;
+    background-color: darkgrey;
+}
+.text-wrapper {
+    text-align: center;
+    padding-top: 60px;
+}
+.text-wrapper h1 {
+    padding-bottom: 56px;
+}
+.text-wrapper h2 {
+    padding-bottom: 18px;
+}
+.text-wrapper h3 {
+    padding-top: 60px;
+}
